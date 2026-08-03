@@ -1,4 +1,4 @@
-package Basics;
+
 
 public class Q5_PowerofNumber {
     public int reverseExponentiation(int n) {

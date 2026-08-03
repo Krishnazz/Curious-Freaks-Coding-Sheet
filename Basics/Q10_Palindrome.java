@@ -1,4 +1,4 @@
-package Basics;
+
 class Q10_Palindrome {
     public boolean isPalindrome(int n) {
         // code here

@@ -1,4 +1,4 @@
-package Basics;
+
 
 public class Q8_isPrime {
     

@@ -1,4 +1,4 @@
-package Basics;
+
 public class Q9_AmstrongNumber {
     static boolean armstrongNumber(int n) {
         // code here

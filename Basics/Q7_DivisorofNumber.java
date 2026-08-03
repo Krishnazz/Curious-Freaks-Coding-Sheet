@@ -1,4 +1,4 @@
-package Basics;
+
 import java.util.List;
 import java.util.ArrayList;
 public class Q7_DivisorofNumber {

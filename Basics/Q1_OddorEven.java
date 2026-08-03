@@ -1,4 +1,3 @@
-package Basics;
 
 public class Q1_OddorEven{
         static boolean isEven(int n) {

@@ -1,4 +1,3 @@
-package Basics;
     
 // Notes: 
 
@@ -19,7 +18,7 @@ package Basics;
         Answer = 6
 
         */
-class Q6_GCD {     
+ class Q6_GCD {     
     
     public static int gcd(int a, int b) {
 
