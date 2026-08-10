@@ -11,3 +11,16 @@
         return minMax;
     }
 }
+
+/*Java users need to return result in Pair class
+For Example -> return new Pair(minimum,maximum)
+*/
+/*
+class Solution {
+    public Pair<Integer, Integer> getMinMax(int[] arr) {
+        // Code Here
+        Arrays.sort(arr);
+        return new Pair(arr[0],arr[arr.length-1]);
+    }
+}
+*/
