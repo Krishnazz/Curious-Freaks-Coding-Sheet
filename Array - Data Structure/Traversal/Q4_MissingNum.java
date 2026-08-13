@@ -7,7 +7,6 @@ class Solution {
             if(arr[i-1]!=i)
                 return i;
         }
-        
-        return arr[arr.length-1]+1;
+         return arr[arr.length-1]+1;
     }
 }
