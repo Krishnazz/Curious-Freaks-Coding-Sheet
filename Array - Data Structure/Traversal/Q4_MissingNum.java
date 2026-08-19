@@ -1,6 +1,6 @@
 import java.util.Arrays;
-class Solution {
-    int missingNum(int arr[]) {
+class Q4_MissingNum {
+    static int missingNum(int arr[]) {
         // code here
         Arrays.sort(arr);
         for(int i=1;i<=arr.length;i++){
