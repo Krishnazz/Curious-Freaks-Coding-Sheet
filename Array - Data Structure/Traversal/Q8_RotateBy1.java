@@ -1,6 +1,5 @@
 class Q8_RotateBy1 {
     public void rotate(int[] arr) {
-        // code here
        for(int i=arr.length-1;i>0;i--){
            int temp=arr[i];
            arr[i]=arr[i-1];
