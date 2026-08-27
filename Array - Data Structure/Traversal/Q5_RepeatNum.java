@@ -3,7 +3,6 @@ import java.util.ArrayList;
 
 public class Q5_RepeatNum {
     ArrayList<Integer> findTwoElement(int arr[]) {
-        // code here
         int[] count=new int[arr.length+1];
         int repeat=-1;
         int missing=-1;
