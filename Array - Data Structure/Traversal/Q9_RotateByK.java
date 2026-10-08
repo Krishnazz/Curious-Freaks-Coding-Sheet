@@ -22,5 +22,16 @@ public class Q9_RotateByK {
    return arr;
         
     }
+    // Optimal Approach
+
+    public static ArrayList<Integer> OptimalrotateArray(ArrayList<Integer> arr, int k) {
+
+        Collections.reverse(arr.subList(0, k));
+        Collections.reverse(arr.subList(k, arr.size()));
+        Collections.reverse(arr);
+      
+   return arr;
+        
+    }
     
 }
